@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/who-won-the-covid-ballon-dor/index.html",
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html",
-      "/posts/who-won-the-covid-ballon-dor/index.html"
+      "/posts/welcome/index.html"
     ]
   }
 ]
